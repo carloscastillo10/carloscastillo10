@@ -20,7 +20,7 @@ Nice to meet you! My name is Carlos. I am currently studying and working as a So
 ![divider](https://user-images.githubusercontent.com/38107722/137821413-1150bf5f-ebf7-4460-b509-c622127ef725.jpg)
 
 ### Statistics:
-![Profile views](https://gpvc.arturio.dev/CarlosCastillo10)  
+![Profile visits](https://komarev.com/ghpvc/?username=CarlosCastillo10&color=red)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCastillo10&count_private=true&show_icons=true&theme=calm)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CarlosCastillo10)  
 
