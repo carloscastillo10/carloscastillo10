@@ -8,7 +8,7 @@ Nice to meet you! My name is Carlos. I am currently studying and working as a So
 
 - 🔭 I’m currently working on development of systems for RR.HH of the UTPL. 
 - 🌱 I’m currently learning Oracle Apex and Cloud architecture. 
-- 👯 I’m looking to collaborate on open source projects that have worldwide.
+- 👯 I am looking to collaborate on open source projects that have an impact around the world.
 
 ![divider](https://user-images.githubusercontent.com/38107722/137821413-1150bf5f-ebf7-4460-b509-c622127ef725.jpg)
 
