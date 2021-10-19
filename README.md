@@ -6,7 +6,7 @@
 
 Nice to meet you! My name is Carlos. I am currently studying and working as a Software Developer at [UTPL](https://www.utpl.edu.ec/). Previously I worked at [VAIOTS S.A](https://www.linkedin.com/company/vaiots/) and [Strategrisk S.A.](http://strategiafinanciera.com/) as a fullstack developer. I am currently working in the human resources department of the UTPL in the area of ​​software development.
 
-- 🔭 I’m currently working on development of systems for RR.HH of the UTPL. 
+- 🔭 I’m currently working on development of systems for RRHH of the UTPL. 
 - 🌱 I’m currently learning Oracle Apex and Cloud architecture. 
 - 👯 I am looking to collaborate on open source projects that have an impact around the world.
 
