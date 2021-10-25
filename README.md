@@ -3,8 +3,7 @@
 ### Hi there 👋, my name is Carlos Castillo
 #### Software Developer
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='25' height='25'></a> 
-
-[![LinkedIn - Carlos Castillo](https://img.shields.io/badge/LinkedIn-Carlos_Castillo-0a66c2)](https://www.linkedin.com/in/carlos-castillo-10/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin)](https://www.linkedin.com/in/carlos-castillo-10/)
 
 Nice to meet you! My name is Carlos. I am currently studying and working as a Software Developer at [UTPL](https://www.utpl.edu.ec/). Previously I worked at [Vaiots S.A](https://www.linkedin.com/company/vaiots/) and [Strategrisk S.A.](http://strategiafinanciera.com/) as a fullstack developer. I am currently working in the human resources department of the UTPL in the area of ​​software development.
  
