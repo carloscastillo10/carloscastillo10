@@ -4,6 +4,7 @@
 #### Software Developer
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='25' height='25'></a> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin)](https://www.linkedin.com/in/carlos-castillo-10/)
+![Profile visits](https://komarev.com/ghpvc/?username=CarlosCastillo10&color=red)
 
 Nice to meet you! My name is Carlos. I am currently studying and working as a Software Developer at [UTPL](https://www.utpl.edu.ec/). Previously I worked at [Vaiots S.A](https://www.linkedin.com/company/vaiots/) and [Strategrisk S.A.](http://strategiafinanciera.com/) as a fullstack developer. I am currently working in the human resources department of the UTPL in the area of ​​software development.
  
@@ -20,7 +21,6 @@ Nice to meet you! My name is Carlos. I am currently studying and working as a So
 ![divider](https://user-images.githubusercontent.com/38107722/137821413-1150bf5f-ebf7-4460-b509-c622127ef725.jpg)
 
 ### Statistics:
-![Profile visits](https://komarev.com/ghpvc/?username=CarlosCastillo10&color=red)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCastillo10&count_private=true&show_icons=true&theme=calm)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosCastillo10&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
