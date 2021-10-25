@@ -1,6 +1,8 @@
 ![divider](https://user-images.githubusercontent.com/38107722/137821462-186b7b20-d192-4097-b8b5-8a7e60ec52d0.jpg)
 
 ### Hi there 👋, my name is Carlos Castillo
+[![ResearchGate - Carlos-Castillo](https://img.shields.io/badge/ResearchGate-Carlos--Castillo-00CCBB)](https://www.researchgate.net/profile/Carlos-Castillo-Giron)
+[![LinkedIn - Carlos Castillo](https://img.shields.io/badge/LinkedIn-Carlos_Castillo-0a66c2)](https://www.linkedin.com/in/carlos-castillo-10/)
 #### Software Developer 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30'></a> 
 
