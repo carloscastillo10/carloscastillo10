@@ -8,7 +8,8 @@
 
 Nice to meet you! My name is Carlos. I am currently studying and working as a Software Developer at [UTPL](https://www.utpl.edu.ec/). Previously I worked at [Vaiots S.A](https://www.linkedin.com/company/vaiots/) and [Strategrisk S.A.](http://strategiafinanciera.com/) as a fullstack developer. I am currently working in the human resources department of the UTPL in the area of ​​software development.
  
-- 🌱 I’m currently learning Oracle Apex and Cloud architecture. 
+- 🌱 I’m currently learning Oracle Apex, NodeJs and Cloud architecture. 
+- :arrow_right: In the very near future, I plan to learn the Golang programming language, which catches my attention for its ability to create high-performance applications.
 - 👯 I am looking to collaborate on open source projects that have an impact around the world.
 
 ![divider](https://user-images.githubusercontent.com/38107722/137821413-1150bf5f-ebf7-4460-b509-c622127ef725.jpg)
