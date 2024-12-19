@@ -21,7 +21,7 @@ Nice to meet you! My name is Carlos.  I am currently a graduate of [UTPL](https:
 
 ### Github Statistics:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCastillo10&count_private=true&show_icons=true&theme=calm)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosCastillo10&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosCastillo10&count_private=true&show_icons=true&theme=calm)  [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosCastillo10&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
 ![divider](https://user-images.githubusercontent.com/38107722/137821413-1150bf5f-ebf7-4460-b509-c622127ef725.jpg)
 
